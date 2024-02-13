@@ -22,6 +22,8 @@ function CharacterDetailsPage() {
       <p>Status: {character.status}</p>
       <p>Species: {character.species}</p>
       <p>Gender: {character.gender}</p>
+      <p>Location: {character.location.name}</p>
+      <p>Origin: {character.origin.name}</p>
       <img src={character.image} alt={character.name} />
       {/* Add navigation or additional content as needed */}
     </div>
