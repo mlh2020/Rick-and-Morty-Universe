@@ -25,7 +25,7 @@ function CharacterDetailsPage() {
       <p>Location: {character.location.name}</p>
       <p>Origin: {character.origin.name}</p>
       <img src={character.image} alt={character.name} />
-      {/* Add navigation or additional content as needed */}
+      {/* additional content can go here */}
     </div>
   );
 }
