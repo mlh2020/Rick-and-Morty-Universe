@@ -42,7 +42,7 @@ Once the project is running locally, you can access it by going to `http://local
 
 ## Project Hosting
 
-The application will be hosted on Netlify, providing a live version accessible from anywhere. Stay tuned for the live site link.
+The application will be hosted on Netlify, providing a live version accessible from anywhere. Check it out [here!](https://main--ricknmortyplanet.netlify.app/)
 
 ## Contributing
 
